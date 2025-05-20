@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+.madcat {
+    color: white;
+    margin-top: 15%;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+
+h1{
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+
+.madcat img {
+    border: 5px solid white;
+    width: 300px;  
+    display: block;
+    margin: auto;
+}
